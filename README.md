@@ -1,2 +1,1 @@
-# Guess-the-meme
-Have fun!
+# Guess-the-meme 
